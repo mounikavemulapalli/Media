@@ -35,20 +35,7 @@ export const menuItems = [
       "Our team of experts offers consulting services to help you navigate the complex digital landscape. Whether you need advice on content creation, platform selection, or audience engagement, we're here to guide you every step of the way.",
     // url: "https://discord.com/invite/wdgH95JY6a",
   },
-  {
-    title: "Ten Virtual University",
-    icon: <School className='w-5 h-5' />,
-    description:
-      "Earn accredited degrees and certifications through our comprehensive online university programs.",
-    url: "https://ten-virtual-you-tube-university.vercel.app/",
-  },
-  {
-    title: "Ten Resume Builder",
-    icon: <FileText className='w-5 h-5' />,
-    description:
-      "Create professional resumes effortlessly with Ten Resume Builder.",
-    url: "https://resume.entrepreneurshipnetwork.net/",
-  },
+  
   {
     title: "Digital Content Creation",
     icon: <FileText className='w-5 h-5' />,
