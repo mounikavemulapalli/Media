@@ -39,7 +39,7 @@ export function Hero2() {
             >
               <BookOpen className='w-12 h-12 mb-4 text-green-600' />
               <h3 className='text-4xl font-bold mb-2'>500+</h3>
-              <p className='text-green-700'>Courses</p>
+              <p className='text-green-700'>records</p>
             </motion.div>
           </div>
         </motion.div>
