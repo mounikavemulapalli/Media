@@ -35,12 +35,12 @@ export const menuItems = [
       "Our team of experts offers consulting services to help you navigate the complex digital landscape. Whether you need advice on content creation, platform selection, or audience engagement, we're here to guide you every step of the way.",
     // url: "https://discord.com/invite/wdgH95JY6a",
   },
-  
+
   {
     title: "Digital Content Creation",
     icon: <FileText className='w-5 h-5' />,
     description:
       "We craft high-quality, original content tailored to your audience's interests and preferences. From videos and articles to podcasts and interactive experiences, we ensure every piece resonates and captivates.",
-    url: "",
+    // url: "",
   },
 ];
