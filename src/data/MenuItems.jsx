@@ -29,4 +29,10 @@ export const menuItems = [
       "We develop and implement strategies to foster a deep connection between our content and our viewers. Our approach encourages active participation, feedback, and community building, ensuring a loyal and engaged audience.",
     url: "",
   },
+  {
+    title: "Ten Marketing",
+    icon: <Users className='w-5 h-5' />,
+    description: "some of our intiatives in media industry",
+    url: "https://marketing.entrepreneurshipnetwork.net/",
+  },
 ];
