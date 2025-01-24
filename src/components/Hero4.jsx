@@ -12,7 +12,7 @@ export function Hero4() {
           className="bg-white rounded-2xl shadow-xl p-8 md:p-12"
         >
           <div className="text-center mb-8">
-            <h2 className="text-3xl font-bold text-gray-900">What Our Students Say</h2>
+            <h2 className="text-3xl font-bold text-gray-900">What Our users Say</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <motion.div
@@ -20,7 +20,7 @@ export function Hero4() {
               className="bg-blue-50 p-6 rounded-lg"
             >
               <p className="text-gray-600 italic mb-4">
-                "Ten Education transformed my learning experience. The virtual campus and mentorship program helped me achieve my career goals."
+              "Ten Media transformed my watching experience."
               </p>
               <p className="font-semibold text-gray-900">- Himanshu</p>
               <p className="text-gray-500">React.js Developer</p>

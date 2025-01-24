@@ -9,38 +9,24 @@ import {
 
 export const menuItems = [
   {
-    title: "Innovative Distribution Platforms",
-    icon: <GraduationCap className='w-5 h-5' />,
+    title: "Ten News",
+    icon: <Users className='w-5 h-5' />,
     description:
-      "Leveraging state-of-the-art technology, our platforms distribute content seamlessly across various devices and channels. Our digital infrastructure ensures that your media is accessible and engaging, whether on a smartphone, tablet, or desktop.",
+      "Welcome to TEN News, your go-to source for the latest and most reliable news from around the world. Our website provides comprehensive coverage of breaking news, in-depth analysis, and expert opinions on a wide range of topics, including politics, business, technology, entertainment, sports, and more.",
+    url: "",
   },
   {
-    title: "Audience Engagement Strategies",
+    title: "Ten Actors",
+    icon: <Users className='w-5 h-5' />,
+    description:
+      "A well-designed actor's website can also help streamline referrals, making it easier for potential collaborators or industry contacts to refer the actor for suitable roles or opportunities. Additionally, actors have control over the content and presentation, ensuring that the focus remains on their work without any distractions",
+    url: "https://ten-actors.vercel.app/",
+  },
+  {
+    title: "Ten Academy",
     icon: <Users className='w-5 h-5' />,
     description:
       "We develop and implement strategies to foster a deep connection between our content and our viewers. Our approach encourages active participation, feedback, and community building, ensuring a loyal and engaged audience.",
-    // url: "https://mentor.entrepreneurshipnetwork.net",
-  },
-  {
-    title: "Comprehensive Media Solutions:",
-    icon: <BookOpen className='w-5 h-5' />,
-    description:
-      "From concept to execution, we offer end-to-end solutions for all your media needs. Our services include content strategy, production, editing, and distribution, providing a one-stop-shop for all your digital media requirements.",
-    // url: "https://ten-book-engine.vercel.app/",
-  },
-  {
-    title: "Creative Consulting",
-    icon: <Building2 className='w-5 h-5' />,
-    description:
-      "Our team of experts offers consulting services to help you navigate the complex digital landscape. Whether you need advice on content creation, platform selection, or audience engagement, we're here to guide you every step of the way.",
-    // url: "https://discord.com/invite/wdgH95JY6a",
-  },
-
-  {
-    title: "Digital Content Creation",
-    icon: <FileText className='w-5 h-5' />,
-    description:
-      "We craft high-quality, original content tailored to your audience's interests and preferences. From videos and articles to podcasts and interactive experiences, we ensure every piece resonates and captivates.",
-    // url: "",
+    url: "",
   },
 ];

@@ -31,7 +31,7 @@ export function Hero({ featureCardRef }) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Discover a serene learning environment designed to help you focus and achieve your goals.
+          Discover a serene media environment designed to help you focus and achieve your goals.
         </motion.p>
         <motion.button
           className="mt-10 bg-green-600 text-white px-6 py-3 rounded-full font-semibold text-lg shadow-md hover:bg-green-700 transition-colors duration-300"
