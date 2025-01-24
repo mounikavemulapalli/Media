@@ -13,7 +13,7 @@ export const menuItems = [
     icon: <Users className='w-5 h-5' />,
     description:
       "Welcome to TEN News, your go-to source for the latest and most reliable news from around the world. Our website provides comprehensive coverage of breaking news, in-depth analysis, and expert opinions on a wide range of topics, including politics, business, technology, entertainment, sports, and more.",
-    url: "",
+    url: "https://news.entrepreneurshipnetwork.net/",
   },
   {
     title: "Ten Actors",
